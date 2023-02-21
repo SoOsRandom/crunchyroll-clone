@@ -20,10 +20,10 @@ export const defaultTheme = {
 export const darkTheme = {
   colors: {
     brand: {
-      primary: 'black',
-      secondary: '#F47521',
-      supportPrimary: '#EF4323',
-      supportSecondary: '#2ABDBB'
+      primary: '#2ABDBB',
+      secondary: '#0199ff',
+      supportPrimary: '#0004ff',
+      supportSecondary: '#FABB18'
     },
     interface: {
       white000: '#ffffff',
