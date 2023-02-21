@@ -1,3 +1,3 @@
-import { createGlobalStyle, css } from "styled-components";
+import { createGlobalStyle, css } from 'styled-components'
 
-export const GlobalReset = createGlobalStyle(() => css``);
+export const GlobalReset = createGlobalStyle(() => css``)
